@@ -16,7 +16,9 @@
    
 |license-badge| |travis-badge| |codecov-badge|
 
-Tecthulu API and simplified Ingress game model.
+Python library implementing a Tecthulu API and simplified Ingress game model.
+
+**This package contains no standalone code; for the top-level executable, please see [<name TBD>].**
 
 Development
 ===========
